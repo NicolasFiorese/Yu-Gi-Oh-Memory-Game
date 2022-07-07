@@ -2,7 +2,7 @@ main {
   display: flex;
   flex-direction: column;
   width: 100%;
-  background-image: url(/images/bg.jpg);
+  background-image: url(images/bg.jpg);
   background-size: cover;
   background-position: center;
   min-height: 100vh;
@@ -58,7 +58,7 @@ header {
 }
 
 .back {
-  background-image: url('../images/card-verse-1.jfif');
+  background-image: url('images/card-verse-1.jfif');
   background-size: cover;
   background-position: center;
   backface-visibility: hidden;
